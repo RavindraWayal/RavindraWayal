@@ -1,16 +1,13 @@
-## Hi there 👋
-
+## Hi there 👋 I'm [Ravindra Wayal]
+Welcome to my GitHub profile! I’m passionate about technology and always excited to work on new and interesting projects.
 <!--
-**RavindraWayal/RavindraWayal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I have worked on **a B2B application** and **React web development**.
+- 🌱 I’m currently learning **Spring Boot**, and **Microservices architecture**.
+- 👯 I’m looking to collaborate on **web development projects**, particularly with **Java** and **React**.
+- 🤔 I’m looking for help with **API performance optimization** and **scalable backend systems**.
+- 💬 Ask me about **backend development**, **React**, **Spring Boot**, and **MySQL**.
+- 📫 How to reach me: [rwayal976@gmail.com] | https://www.linkedin.com/in/ravindra-wayal-b21b742a3/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: LIKE GYM IS GOOD FOR YOUR BODY HEALTH ,CODING IS GOOD FOR YOUR BRAIN HEALTH!
