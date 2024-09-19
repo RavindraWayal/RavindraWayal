@@ -11,3 +11,6 @@ Welcome to my GitHub profile! I’m passionate about technology and always excit
 - 📫 How to reach me: [rwayal976@gmail.com] | https://www.linkedin.com/in/ravindra-wayal-b21b742a3/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: LIKE GYM IS GOOD FOR YOUR BODY HEALTH ,CODING IS GOOD FOR YOUR BRAIN HEALTH!
+
+.
+.
